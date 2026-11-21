@@ -1,0 +1,7 @@
+promo_id,promo_name,target,start_date,end_date,cashback_persen,maks_cashback,min_transaksi
+PR01,Cashback Gajian Juli,Semua,2026-07-25,2026-07-31,10,20000,50000
+PR02,Merdeka Cashback 17.8,Semua,2026-08-15,2026-08-19,17,17000,30000
+PR03,Ngopi Hemat,F&B,2026-07-01,2026-09-30,20,10000,25000
+PR04,Pulsa Murah,Pulsa & Data,2026-08-01,2026-08-31,5,5000,20000
+PR05,Pengguna Baru,Transaksi pertama,2026-07-01,2026-09-30,50,25000,20000
+PR06,Cashback 9.9,Belanja Online,2026-09-09,2026-09-09,30,30000,100000

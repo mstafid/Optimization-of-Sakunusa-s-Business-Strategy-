@@ -1,0 +1,31 @@
+merchant_id,merchant_name,category,city,join_date
+M001,Kopi Senja Pagi,F&B,Semarang,2025-08-26
+M002,Warung Bu Tini,F&B,Palembang,2025-12-15
+M003,Bakmi Nusantara,F&B,Medan,2025-01-05
+M004,Roti Kukus Mama,F&B,Jakarta,2025-09-07
+M005,Ayam Geprek Juara,F&B,Semarang,2025-10-24
+M006,Teh Poci Segar,F&B,Surabaya,2025-06-23
+M007,Sate Pak Kumis,F&B,Bandung,2025-04-17
+M008,Bubur Ayam Mang Ujang,F&B,Surabaya,2025-03-10
+M009,Martabak Bangka 88,F&B,Surabaya,2025-03-07
+M010,Es Kopi Tetangga,F&B,Medan,2025-07-23
+M011,MiniMart 24,Minimarket,Yogyakarta,2025-10-24
+M012,Toko Serba Ada,Minimarket,Jakarta,2025-04-14
+M013,Mart Sejahtera,Minimarket,Makassar,2025-06-01
+M014,Toserba Rakyat,Minimarket,Denpasar,2025-03-03
+M015,OjekKu,Transportasi,Nasional,2025-07-11
+M016,BusKota Pay,Transportasi,Jakarta,2025-11-04
+M017,ParkirMudah,Transportasi,Semarang,2025-03-13
+M018,KeretaLokal Tiket,Transportasi,Surabaya,2025-11-06
+M019,TaksiNusa,Transportasi,Nasional,2025-06-24
+M020,Pulsa dan Paket Data SakuNusa,Pulsa & Data,Nasional,2025-07-12
+M021,Voucher Game SakuNusa,Pulsa & Data,Nasional,2025-06-11
+M022,TokoLaris,Belanja Online,Nasional,2025-05-18
+M023,BelanjaYuk,Belanja Online,Nasional,2025-10-26
+M024,PasarKita Online,Belanja Online,Nasional,2025-03-06
+M025,FashionNusa,Belanja Online,Nasional,2025-01-06
+M026,GadgetMurah ID,Belanja Online,Nasional,2025-03-22
+M027,Tagihan Listrik,Tagihan,Nasional,2025-01-24
+M028,Tagihan Air,Tagihan,Nasional,2025-03-03
+M029,Tagihan Internet Rumah,Tagihan,Nasional,2025-03-21
+M030,Iuran Asuransi Kesehatan,Tagihan,Nasional,2025-03-27
